@@ -1,6 +1,17 @@
 # Changelog
 
 
+## 3.0.0 (2026-08-07)
+
+### Breaking
+
+* Drop TYPO3 v10 compatibility. [gmartino27]
+
+### Features
+
+* Add TYPO3 v14.3 and PHP 8.4 compatibility. [gmartino27]
+
+
 ## 2.3.0 (2025-03-10)
 
 ### Tasks
